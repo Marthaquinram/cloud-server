@@ -1,0 +1,23 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "Deploy a simple Node.js server to EC2, using Elastic Beanstalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "start": "npm i && node server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marthaquinram/cloud-server.git"
+  },
+  "author": "Martha Quintanilla-Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marthaquinram/cloud-server/issues"
+  },
+  "homepage": "https://github.com/Marthaquinram/cloud-server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
