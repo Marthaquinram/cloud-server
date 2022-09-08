@@ -6,10 +6,10 @@
 - Document your processes
 
 ### Deployment
+- Im a little confused on how to deploy the CLI, I tried rewatching the lecture and the youtube video we had to watch for the Class 16 reading notes, but Im still lost as to how to deploy on the CLI.
 
 - <http://cloudserver-env-1.eba-sxndtkti.us-west-2.elasticbeanstalk.com/>
 ![successfully-deployed](./successfulldeploy.png)
-
 
 
 
