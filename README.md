@@ -6,6 +6,18 @@
 - Document your processes
 
 ### Deployment
-- 
+
+- <http://cloudserver-env-1.eba-sxndtkti.us-west-2.elasticbeanstalk.com/>
+![successfully-deployed](./successfulldeploy.png)
+
+
+
+
 ## Approach & Efficiency
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+- I tried to use Can of books back end and City Explorere - API, and  I had the hardest time getting it to work. I keep getting this message and I need more guideance on how to deploy it. 
+
+![HealthAWS](./awshealth.png)
+![AWS](./aws.png)
+
+### Collaborators
+ - Danny C.
